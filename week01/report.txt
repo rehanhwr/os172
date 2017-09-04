@@ -1,0 +1,4 @@
+#rehan_hawari
+
+Short description of task from week 1:
+Clone os172 repo, introduction to git(how to push and pull) , intro to CLI (command-line interface), and intro to scripting.
