@@ -20,3 +20,4 @@ drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:08 week09
 drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:08 week10
 drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:09 xtra
 /home/fasilkom/mahasiswa/r/rehan.hawari/os172/week01
+Today is 04 Sep 2017 at 16:12:34
