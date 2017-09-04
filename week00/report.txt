@@ -1,1 +1,4 @@
 #rehan_hawari
+
+Description of task from week 0:
+Create github account, create repository, try to login to badak.cs.ui.ac.id.
