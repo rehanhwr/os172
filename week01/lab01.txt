@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 rehan.hawari StafCS 4096 Sep  4 15:29 .
+drwx--x--x  3 rehan.hawari StafCS 4096 Sep  4 15:27 ..
+drwxr-xr-x  8 rehan.hawari StafCS 4096 Sep  4 15:29 .git
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:09 key
+-rw-r--r--  1 rehan.hawari StafCS    0 Sep  4 15:30 lab01.txt
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:08 log
+-rw-r--r--  1 rehan.hawari StafCS    7 Sep  4 15:00 README.md
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:20 sandbox
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:27 week00
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:05 week01
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:05 week02
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:05 week03
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:07 week04
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:07 week05
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:07 week06
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:07 week07
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:07 week08
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:08 week09
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:08 week10
+drwxr-xr-x  2 rehan.hawari StafCS 4096 Sep  4 15:09 xtra
+/home/fasilkom/mahasiswa/r/rehan.hawari/os172/week01
