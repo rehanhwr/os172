@@ -1,1 +1,13 @@
 #rehanhwr
+
+Why we have to study Operating System?
+
+The backbone of network infrastructure, the base of internet is a hardware piece, which we technically call as a Server. Server is in some ways similar to CPU in terms of functionality.
+
+A high performance CPU with high technical and hardware specs can be called as a Server. So what does a CPU run to do tasks or to implement instructions?
+
+It runs a Operating System. The whole world today depends on internet. Everything which you see and follow directly or indirectly depends on Internet. Now, Server is a backbone of the Internet Community. Every instruction is implemented by a Server which runs some sort of Operating System.
+
+To make this world better or to influence the world of Internet, you should definitely know about a Operating System. It's the base of everything.
+
+source: https://www.quora.com/Why-do-you-need-to-study-operating-system
