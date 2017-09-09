@@ -1,3 +1,10 @@
 w01-170904-15-PS-About: GIT Learning
 w01-170904-15-PS-About: CLI Learning
 w01-170904-16-PS-About: CLI Learning & Intro to Scripting
+w00-170905-16-LR-About: Scripting, From: Lecturer
+w00-170905-16-LR-About: Scripting, From: Lecturer
+w00-170905-17-LR-About: Scripting, From: Lecturer
+w00-170907-16-LR-About: Scripting, From: Lecturer
+w00-170907-16-LR-About: Scripting, From: Lecturer
+w00-170907-17-LR-About: Scripting, From: Lecturer
+
