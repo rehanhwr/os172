@@ -1,0 +1,12 @@
+w02-170911-15-PS-About: Tunnels/ winSCP learn
+w02-170911-15-PS-About: Intro to GPG & generate key
+w02-170912-16-LR-About: Protection in OS, From: Lecturer
+w02-170912-16-LR-About: Permission in OS, From: Lecturer
+w02-170912-17-LR-About: Security in OS, From: Lecturer
+w02-170914-10-PS-About: Intro to C
+w02-170914-16-LR-About: Programming in C, From: Lecturer
+w02-170914-16-LR-About: Programming in C, From: Lecturer
+w02-170914-17-LR-About: Programming in C, From: Lecturer
+w02-170916-06-PS-About: C, Sign & Encryption.
+w02-170916-07-PS-About: Encryption and Digital Signature using GnuPG
+w02-170916-07-PS-About: Encryption and Digital Signature using GnuPG
