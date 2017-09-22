@@ -1,0 +1,8 @@
+w03-170919-16-LR-About: BIOS, From: Lecturer
+w03-170919-16-LR-About: Linux Booting Process, From: Lecturer
+w03-170919-17-LR-About: Linux Booting Process, From: Lecturer
+w03-170922-23-PS-About: Booting Process
+w03-170922-23-PS-About: Start up script 
+w03-170923-00-PS-About: Start up script 
+w03-170923-00-PS-About: Encryption and Digital Signature using GnuPG
+
