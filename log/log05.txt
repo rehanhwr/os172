@@ -1,0 +1,6 @@
+w05-171003-16-LR-About: Main Memory, From: Lecturer
+w05-171003-16-LR-About: Virtual Memory, From: Lecturer
+w05-171003-17-LR-About: Virtual Memory & Physical Memory, From: Lecturer
+w05-171005-16-LR-About: Fragmentation, segmentation & paging, From: Lecturer
+w05-171005-16-LR-About: Fragmentation, segmentation & paging, From: Lecturer
+w05-171005-17-LR-About: Fragmentation, segmentation & paging, From: Lecturer
