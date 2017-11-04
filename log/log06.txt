@@ -1,9 +1,0 @@
-w06-171009-16-PS-About: Implement convert function
-w06-171009-17-PS-About: Convert vm to memory
-w06-171009-17-PS-About: Load vm value from physical address
-w06-171010-16-LR-About: Page Fault in vm, From: Lecturer
-w06-171010-16-LR-About: Frame replacement algorithm, From: Lecturer
-w06-171010-17-LR-About: Frame replacement algorithm, From: Lecturer
-w06-171012-16-LR-About: Review pointers in C, From: Lecturer
-w06-171013-21-PS-About: Convert vm to memory
-w06-171013-21-PS-About: convert vm to memory

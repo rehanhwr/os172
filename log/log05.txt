@@ -4,3 +4,13 @@ w05-171003-17-LR-About: Virtual Memory & Physical Memory, From: Lecturer
 w05-171005-16-LR-About: Fragmentation, segmentation & paging, From: Lecturer
 w05-171005-16-LR-About: Fragmentation, segmentation & paging, From: Lecturer
 w05-171005-17-LR-About: Fragmentation, segmentation & paging, From: Lecturer
+
+w05-171009-16-PS-About: Implement convert function
+w05-171009-17-PS-About: Convert vm to memory
+w05-171009-17-PS-About: Load vm value from physical address
+w05-171010-16-LR-About: Page Fault in vm, From: Lecturer
+w05-171010-16-LR-About: Frame replacement algorithm, From: Lecturer
+w05-171010-17-LR-About: Frame replacement algorithm, From: Lecturer
+w05-171012-16-LR-About: Review pointers in C, From: Lecturer
+w05-171013-21-PS-About: Convert vm to memory
+w05-171013-21-PS-About: convert vm to memory
