@@ -1,0 +1,6 @@
+w07-171109-16-LR-About: Learn mutex, From: Lecturer
+w07-171109-16-LR-About: Learn mutex, From: Lecturer
+w07-171109-17-LR-About: Learn mutex, From: Lecturer
+w07-171111-13-PS-About: Fork excercise
+w07-171111-13-PS-About: Fork excercise
+w07-171111-16-PS-About: Fork excercise
