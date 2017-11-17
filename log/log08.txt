@@ -1,0 +1,8 @@
+w08-171114-16-LR-About: Learn concept of scheduling, From: Lecturer
+w08-171114-16-LR-About: Learn concept of scheduling, From: Lecturer
+w08-171114-17-LR-About: Learn concept of scheduling, From: Lecturer
+w08-171116-16-LR-About: Scheduling excersice, From: Lecturer
+w08-171116-16-LR-About: Scheduling excersice, From: Lecturer
+w08-171116-17-LR-About: Scheduling excersice, From: Lecturer
+w08-171117-01-PS-About: Implement scheduling code in C
+
